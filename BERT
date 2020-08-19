@@ -1,0 +1,15 @@
+"""
+https://huggingface.co/transformers/notebooks.html
+https://github.com/huggingface/transformers#model-architectures
+https://huggingface.co/transformers/preprocessing.html#preprocessing-pairs-of-sentences
+https://github.com/huggingface/transformers/blob/master/notebooks/02-transformers.ipynb
+
+Blogs/Exp:
+https://nlp.seas.harvard.edu/2018/04/03/attention.html#encoder-and-decoder-stacks
+http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+http://jalammar.github.io/illustrated-bert/
+https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert
+https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+https://www.youtube.com/watch?v=xI0HHN5XKDo
+https://www.youtube.com/watch?v=TQQlZhbC5ps
+"""                
