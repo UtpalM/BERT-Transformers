@@ -20,4 +20,6 @@ https://ruder.io/nlp-imagenet/
 Related papers:
 All you need is attention: https://arxiv.org/abs/1706.03762
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding:https://arxiv.org/abs/1810.04805
+Semi-supervised Sequence Learning: https://arxiv.org/abs/1511.01432
+Deep contextualized word representations: https://arxiv.org/abs/1802.05365
 """                
