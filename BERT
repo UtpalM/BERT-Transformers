@@ -6,6 +6,7 @@ https://huggingface.co/transformers/preprocessing.html#preprocessing-pairs-of-se
 https://github.com/huggingface/transformers/blob/master/notebooks/02-transformers.ipynb
 https://en.wikipedia.org/wiki/Cloze_test
 http://nlp.seas.harvard.edu/2018/04/03/attention.html
+https://cloud.google.com/tpu/
 
 Blogs/Exp:
 https://nlp.seas.harvard.edu/2018/04/03/attention.html#encoder-and-decoder-stacks
@@ -18,6 +19,7 @@ https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 https://www.youtube.com/watch?v=xI0HHN5XKDo
 https://www.youtube.com/watch?v=TQQlZhbC5ps
 https://ruder.io/nlp-imagenet/
+https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca
 
 Related papers:
 All you need is attention: https://arxiv.org/abs/1706.03762
