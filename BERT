@@ -16,4 +16,8 @@ https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 https://www.youtube.com/watch?v=xI0HHN5XKDo
 https://www.youtube.com/watch?v=TQQlZhbC5ps
 https://ruder.io/nlp-imagenet/
+
+Related papers:
+All you need is attention: https://arxiv.org/abs/1706.03762
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding:https://arxiv.org/abs/1810.04805
 """                
