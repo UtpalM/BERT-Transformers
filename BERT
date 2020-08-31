@@ -35,4 +35,8 @@ Semi-supervised Sequence Learning: https://arxiv.org/abs/1511.01432
 Deep contextualized word representations: https://arxiv.org/abs/1802.05365
 OpenAI transformer: https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 A large annotated corpus for learning natural language inference (https://nlp.stanford.edu/projects/snli/): http://nlp.stanford.edu/pubs/snli_paper.pdf
+
+Hyperparameter tuning:
+https://github.com/keras-team/keras-tuner
+Hyperparameter tuning with Keras Tuner: https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html
 """                
