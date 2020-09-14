@@ -10,6 +10,7 @@ https://cloud.google.com/tpu/
 Tensor2Tensor Colab: https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb
 
 Blogs/Exp:
+https://openai.com/blog/better-language-models/
 https://nlp.seas.harvard.edu/2018/04/03/attention.html#encoder-and-decoder-stacks
 http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
