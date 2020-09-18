@@ -42,3 +42,7 @@ OpenAI transformer: https://s3-us-west-2.amazonaws.com/openai-assets/research-co
 A large annotated corpus for learning natural language inference (https://nlp.stanford.edu/projects/snli/): http://nlp.stanford.edu/pubs/snli_paper.pdf
 
 """                
+NMT
+
+https://github.com/tensorflow/nmt#encoder
+
