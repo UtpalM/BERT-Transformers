@@ -31,6 +31,8 @@ https://www.tensorflow.org/tutorials/text/transformer
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://transformer.huggingface.co/doc/gpt2-large
 https://nlp.seas.harvard.edu/2018/04/03/attention.html
+http://www.site.uottawa.ca/~diana/csi5386/mikolov1,coling,2014,tutorial,fix,tomas,mikolov.pdf
+https://stackoverflow.com/questions/37889914/what-is-a-projection-layer-in-the-context-of-neural-networks
 
 Related papers:
 https://huggingface.co/transformers/bertology.html
