@@ -76,4 +76,6 @@ BLEU Score:
 https://github.com/mjpost/sacrebleu
 https://cloud.google.com/translate/automl/docs/evaluate
 
-http://opus.nlpl.eu/
+Translated texts from the web(smaller): http://opus.nlpl.eu/
+Larger: https://paracrawl.eu/ 
+Both available through: https://www.tensorflow.org/datasets, https://www.tensorflow.org/datasets/catalog/overview
