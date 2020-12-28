@@ -74,4 +74,5 @@ https://mlcommons.org/en/peoples-speech/
 BLEU Score:
 #hassle-free computation of shareable, comparable, and reproducible BLEU scores. It also knows all the standard test sets and handles downloading, processing, and tokenization
 https://github.com/mjpost/sacrebleu
+https://cloud.google.com/translate/automl/docs/evaluate
 
