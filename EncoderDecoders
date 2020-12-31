@@ -33,6 +33,7 @@ https://transformer.huggingface.co/doc/gpt2-large
 https://nlp.seas.harvard.edu/2018/04/03/attention.html
 http://www.site.uottawa.ca/~diana/csi5386/mikolov1,coling,2014,tutorial,fix,tomas,mikolov.pdf
 https://stackoverflow.com/questions/37889914/what-is-a-projection-layer-in-the-context-of-neural-networks
+https://challengeenthusiast.com/2019/10/15/pay-attention-and-you-shall-learn/
 
 Related papers:
 https://huggingface.co/transformers/bertology.html
@@ -79,3 +80,19 @@ https://cloud.google.com/translate/automl/docs/evaluate
 Translated texts from the web(smaller): http://opus.nlpl.eu/
 Larger: https://paracrawl.eu/ 
 Both available through: https://www.tensorflow.org/datasets, https://www.tensorflow.org/datasets/catalog/overview
+
+Books:
+DIDL:
+https://github.com/d2l-ai/d2l-en
+https://www.amazon.science/latest-news/amazon-scientists-author-popular-deep-learning-book
+
+Hinton:
+https://arxiv.org/abs/2009.05673
+
+JAX and Trax:
+https://github.com/google/trax
+
+Other resources
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/resources.html
+
+
